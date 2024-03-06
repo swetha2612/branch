@@ -8,3 +8,6 @@ a
 b
 c
 d
+global
+global
+finally
